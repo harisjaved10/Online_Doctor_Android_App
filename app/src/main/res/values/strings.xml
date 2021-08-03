@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Online_Doctor_App</string>
+    <string name="logo">logo</string>
+    <string name="welcome_text">WELCOME TO ONLINE DOCTOR APP</string>
+    <string name="btn_continue">CLICK TO CONTINUE</string>
+    <string name="login_text">ENTER YOUR LOGIN DETAILS</string>
+    <string name="login_email">ENTER YOUR EMAIL</string>
+    <string name="login_password">ENTER YOUR PASSWORD</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_signup">SIGNUP</string>
+    <string name="signup_title">ENTER YOUR SIGNUP DETAILS</string>
+    <string name="signup_email">ENTER YOUR EMAIL</string>
+    <string name="signup_password">ENTER YOUR PASSWORD</string>
+    <string name="signup_conpassword">CONFIRM YOUR PASSWORD</string>
+    <string name="btn_done">DONE</string>
+    <string name="homepage_title">MAJOR CATEGORIES</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="corona_text">COVID-19 INFORMATION</string>
+    <string name="doctor_text">AVAILABLE DOCTORS</string>
+    <string name="ambulance_text">CALL AMBULANCE</string>
+    <string name="labs_text">MEDICAL LABS</string>
+    <string name="todo5">TODO5</string>
+    <string name="btn_logout">LOGOUT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo6">TODO</string>
+    <string name="doctor_title">DOCTOR\'S DETAIL</string>
+    <string name="btn_location">LOCATION</string>
+    <string name="btn_appointment">Appointment</string>
+    <string name="todo7">TODO7</string>
+    <string name="doctor_name">TextView</string>
+    <string name="doctor_degree">TextView</string>
+    <string name="todo8">TODO</string>
+    <string name="doc_name">TextView</string>
+    <string name="doc_degree">TextView</string>
+    <string name="name_doc">TextView</string>
+    <string name="degree_doc">TextView</string>
+    <string name="edhi_text">EDHI AMBULANCE</string>
+    <string name="btn_edhi_call">CALL</string>
+    <string name="rescue_1122">RESCUE 1122</string>
+    <string name="call_1122">CALL</string>
+    <string name="chipa_ambulance">CHIPA AMBULANCE</string>
+    <string name="call_chipa">CALL</string>
+    <string name="call_rescue">call_rescue</string>
+    <string name="call">chipa_call</string>
+    <string name="rescue_call">CALL</string>
+    <string name="chipa_call">CALL</string>
+    <string name="symp1">Most common symptoms: fever, dry, cough, tiredness</string>
+    <string name="symp2">Serious symptoms: difficulty breathing or shortness of breath, chest pain, or pressure loss of speech or movement</string>
+    <string name="prec">Precautions: Wear a face mask, Wash hands for 20 seconds, Keep Social Distancing</string>
+</resources>
